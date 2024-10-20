@@ -1,0 +1,14 @@
+/PagPassGPT/model/checkpoint-6000/
+/PagPassGPT/model/last-step/
+best64.rule
+hashcat_rule_gen.py
+live_demo_before_completion.ipynb
+password_guessing.ipynb
+README.txt
+README.md
+rulegen.py
+rules/180.rule
+rules/top10051k.rule
+rules/top15051k.rule
+rules/top20051k.rule
+rules/top5051k.rule

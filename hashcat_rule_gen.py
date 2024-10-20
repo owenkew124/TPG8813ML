@@ -124,6 +124,8 @@ def apply_rule(password: str, rule: Rule) -> str:
 
 def load_rockyou() -> List[Rule]:
     return load_rules('rockyou-30000.rule')
+def load_custom(rule_file) -> List[Rule]:
+    return load_rules(rule_file)
 
 def load_rockyou1000() -> List[Rule]:
     return load_rules('rockyou-top-1000.rule')
