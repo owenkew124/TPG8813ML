@@ -13,6 +13,5 @@ So I ended up just having a bunch of subprocess calls and if one fails it fails.
 ---
 Results arent **great** we were hoping to combine the results with Owen's method but didnt get around to ironing that out.
 
-
-- David Oygenblik, Owen Kew
+David Oygenblik, Owen Kew
   
